@@ -57,7 +57,7 @@ export default {
 			dedupe: ['svelte']
 		}),
 		commonjs(),
-		css({output: 'public/buld/extra.css' }),
+		css({output: 'public/build/extra.css' }),
 
 		// In dev mode, call `npm run start` once
 		// the bundle has been generated
