@@ -3,7 +3,7 @@
 
 .progress-container {
     margin:20px 0;
-    border: solid #316903 1.5px;
+    border: solid #316903 1.5gitpx;
 
 }
 
