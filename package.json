@@ -6,7 +6,7 @@
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public",
-    "deploy": "gh-pages -d New\nfolder "
+    "deploy": "gh-pages -d free-handwashing  "
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^14.0.0",
